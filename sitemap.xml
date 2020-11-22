@@ -3,15 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/</loc>
+    <loc>https://whitlock.dev/series/</loc>
   </url>
   
   <url>
-    <loc>/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
+    <loc>https://whitlock.dev/</loc>
   </url>
   
 </urlset>
