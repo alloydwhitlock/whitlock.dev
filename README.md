@@ -53,6 +53,5 @@ This site automatically deploys to GitHub Pages when changes are pushed to the `
 
 ## 📧 Contact
 
-- Email: adam@whitlock.dev
 - LinkedIn: [linkedin.com/in/adamwhitlock](https://linkedin.com/in/adamwhitlock)
 
